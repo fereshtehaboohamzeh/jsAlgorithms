@@ -11,7 +11,7 @@ function factorial(n){
 // console.log(factorial(5)) */
 // => 120
 
-
+//Recursion solution
 function fact(n){
     // when comes into the recursion,
     // the input parameter will read from local scope
